@@ -6,15 +6,11 @@
 
 ![s1](https://github.com/vishal-mourya/vishal-portfolio/blob/main/assets/images/SS_1.png?raw=true) <br> <br> <br> 
 
-![s2](https://github.com/vishal-mourya/World-Class-Free-Education/blob/main/pics/s2.png?raw=true) <br> <br> <br> 
+![s2](https://github.com/vishal-mourya/vishal-portfolio/blob/main/assets/images/SS_2.png?raw=true) <br> <br> <br> 
 
-![s3](https://github.com/vishal-mourya/World-Class-Free-Education/blob/main/pics/s3.png?raw=true) <br> <br> <br> 
+![s3](https://github.com/vishal-mourya/vishal-portfolio/blob/main/assets/images/SS_3.png?raw=true) <br> <br> <br> 
 
-![s4](https://github.com/vishal-mourya/World-Class-Free-Education/blob/main/pics/s4.png?raw=true) <br> <br> <br> 
-
-![s5](https://github.com/vishal-mourya/World-Class-Free-Education/blob/main/pics/s5.png?raw=true) <br> <br> <br> 
-
-![s6](https://github.com/vishal-mourya/World-Class-Free-Education/blob/main/pics/s6.png?raw=true) <br> <br> <br> 
+![s4](https://github.com/vishal-mourya/vishal-portfolio/blob/main/assets/images/SS_4.png?raw=true) <br> <br> <br> 
 
 ## Improving This Project
 
