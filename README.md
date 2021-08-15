@@ -4,13 +4,13 @@
 
 - This portal provides all detailed information about me and my interests
 
-![s1](https://github.com/vishal-mourya/vishal-portfolio/blob/main/assets/images/SS_1.png?raw=true) <br> <br> <br> 
+![s1](https://github.com/vishal-mourya/vishal-portfolio/tree/main/assets/images/SS_1.png?raw=true) <br> <br> <br> 
 
-![s2](https://github.com/vishal-mourya/vishal-portfolio/blob/main/assets/images/SS_2.png?raw=true) <br> <br> <br> 
+![s2](https://github.com/vishal-mourya/vishal-portfolio/tree/main/assets/images/SS_2.png?raw=true) <br> <br> <br> 
 
-![s3](https://github.com/vishal-mourya/vishal-portfolio/blob/main/assets/images/SS_3.png?raw=true) <br> <br> <br> 
+![s3](https://github.com/vishal-mourya/vishal-portfolio/tree/main/assets/images/SS_3.png?raw=true) <br> <br> <br> 
 
-![s4](https://github.com/vishal-mourya/vishal-portfolio/blob/main/assets/images/SS_4.png?raw=true) <br> <br> <br> 
+![s4](https://github.com/vishal-mourya/vishal-portfolio/tree/main/assets/images/SS_4.png?raw=true) <br> <br> <br> 
  
 
 ## Improving This Project
